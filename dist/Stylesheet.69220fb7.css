@@ -1,0 +1,32 @@
+#title{
+    background-color: whitesmoke;
+     
+    margin: 20px 20px 20px 20px;
+}
+
+#tribute-info li {
+    text-align: center;
+   
+ 
+}
+a{
+    text-decoration: none;
+}
+
+#img-div{
+    background-color: rgb(117, 117, 117);
+     text-align: center;
+    
+}
+
+#image {
+   
+    display: block;
+    
+    max-width: 100%;
+    height: auto;
+    
+ 
+}
+
+/*# sourceMappingURL=/Stylesheet.69220fb7.css.map */
